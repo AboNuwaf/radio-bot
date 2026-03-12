@@ -1,0 +1,1 @@
+apt update && apt install -y ffmpeg git && pip install --no-cache-dir -r requirements.txt && python AboNuwaf.py
