@@ -1,0 +1,10 @@
+pyrogram==2.0.106
+tgcrypto==1.2.5
+pytgcalls==2.1.0
+tgcalls==3.0.0.dev6
+ffmpeg-python==0.2.0
+yt-dlp==2024.8.6
+aiohttp
+aiofiles
+requests
+python-dotenv
